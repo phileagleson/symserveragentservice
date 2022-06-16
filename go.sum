@@ -1,4 +1,6 @@
 github.com/kardianos/service v1.2.1 h1:AYndMsehS+ywIS6RB9KOlcXzteWUzxgMgBymJD7+BYk=
 github.com/kardianos/service v1.2.1/go.mod h1:CIMRFEJVL+0DS1a3Nx06NaMn4Dz63Ng6O7dl0qH0zVM=
+github.com/phileagleson/ziputils v0.0.0-20220608180218-94096c355153 h1:jqafFCLR28f+KKL7sN8eHpzz6HaXdrP4yJ4L5nr9Y5A=
+github.com/phileagleson/ziputils v0.0.0-20220608180218-94096c355153/go.mod h1:ZLhvHvPds2UDVs6G7MaH1jJXwGHzmYoo/qWSbRRN59g=
 golang.org/x/sys v0.0.0-20201015000850-e3ed0017c211 h1:9UQO31fZ+0aKQOFldThf7BKPMJTiBfWycGh/u3UoO88=
 golang.org/x/sys v0.0.0-20201015000850-e3ed0017c211/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
